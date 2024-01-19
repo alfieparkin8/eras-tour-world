@@ -1,0 +1,10 @@
+scoreboard players reset Lover currentInfo
+scoreboard players reset Fearless currentInfo
+scoreboard players reset Evermore currentInfo
+scoreboard players reset Reputation currentInfo
+scoreboard players reset Speak currentInfo
+scoreboard players reset Red currentInfo
+scoreboard players reset Folklore currentInfo
+scoreboard players reset 1989 currentInfo
+scoreboard players reset Surprises currentInfo
+scoreboard players reset Midnights currentInfo

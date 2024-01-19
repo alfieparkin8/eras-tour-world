@@ -1,0 +1,10 @@
+summon item_frame -166 32 -93 {Facing:4b, Invisible:1b, Tags:["screen"], Item:{id:"minecraft:filled_map", Count:1b, tag:{map:564}}}
+summon item_frame -166 32 -92 {Facing:4b, Invisible:1b, Tags:["screen"], Item:{id:"minecraft:filled_map", Count:1b, tag:{map:565}}}
+summon item_frame -166 31 -93 {Facing:4b, Invisible:1b, Tags:["screen"], Item:{id:"minecraft:filled_map", Count:1b, tag:{map:566}}}
+summon item_frame -166 31 -92 {Facing:4b, Invisible:1b, Tags:["screen"], Item:{id:"minecraft:filled_map", Count:1b, tag:{map:567}}}
+summon item_frame -166 32 -78 {Facing:4b, Invisible:1b, Tags:["screen"], Item:{id:"minecraft:filled_map", Count:1b, tag:{map:568}}}
+summon item_frame -166 32 -77 {Facing:4b, Invisible:1b, Tags:["screen"], Item:{id:"minecraft:filled_map", Count:1b, tag:{map:569}}}
+summon item_frame -166 31 -78 {Facing:4b, Invisible:1b, Tags:["screen"], Item:{id:"minecraft:filled_map", Count:1b, tag:{map:570}}}
+summon item_frame -166 31 -77 {Facing:4b, Invisible:1b, Tags:["screen"], Item:{id:"minecraft:filled_map", Count:1b, tag:{map:571}}}
+summon item_frame -166 32 -91 {Facing:4b, Invisible:1b, Tags:["screen"], Item:{id:"minecraft:filled_map", Count:1b, tag:{map:572}}}
+summon item_frame -166 31 -91 {Facing:4b, Invisible:1b, Tags:["screen"], Item:{id:"minecraft:filled_map", Count:1b, tag:{map:573}}}

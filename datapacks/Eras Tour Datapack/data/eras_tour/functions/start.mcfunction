@@ -1,0 +1,2 @@
+function eras_tour:close_screen
+function eras_tour:maps/titlescreen
