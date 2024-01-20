@@ -1,0 +1,1 @@
+execute on passengers run function animated_java:eras/zzzzzzzz/animations/strum/tree/leaf_4_as_bone

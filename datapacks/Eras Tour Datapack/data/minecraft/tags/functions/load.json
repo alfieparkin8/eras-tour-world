@@ -1,5 +1,6 @@
-{ 
-    "values": [
-        "eras_tour:load"
-    ]
+{
+	"values": [
+		"eras_tour:load",
+		"animated_java:eras/zzzzzzzz/load"
+	]
 }
