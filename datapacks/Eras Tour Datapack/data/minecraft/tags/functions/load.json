@@ -1,1 +1,8 @@
-{"values":["eras_tour:load","animated_java:guitar/zzzzzzzz/load","animated_java:microphone/zzzzzzzz/load"]}
+{
+	"values": [
+		"eras_tour:load",
+		"animated_java:guitar/zzzzzzzz/load",
+		"animated_java:microphone/zzzzzzzz/load",
+		"animated_java:screen/zzzzzzzz/load"
+	]
+}

@@ -1,1 +1,7 @@
-{"replace":false,"values":["eras_tour:tick","animated_java:tick"]}
+{
+	"replace": false,
+	"values": [
+		"eras_tour:tick",
+		"animated_java:tick"
+	]
+}
