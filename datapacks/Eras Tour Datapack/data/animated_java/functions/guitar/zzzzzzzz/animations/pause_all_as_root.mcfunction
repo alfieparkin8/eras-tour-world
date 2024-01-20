@@ -1,0 +1,1 @@
+function animated_java:guitar/zzzzzzzz/animations/strum/pause_as_root

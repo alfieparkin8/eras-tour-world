@@ -1,1 +1,0 @@
-function animated_java:eras/zzzzzzzz/animations/strum/tick_animation

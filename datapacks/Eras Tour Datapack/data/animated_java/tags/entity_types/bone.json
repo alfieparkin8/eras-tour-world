@@ -1,6 +1,1 @@
-{
-	"replace": false,
-	"values": [
-		"minecraft:item_display"
-	]
-}
+{"replace":false,"values":["minecraft:item_display"]}

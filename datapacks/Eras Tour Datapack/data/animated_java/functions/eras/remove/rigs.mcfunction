@@ -1,1 +1,0 @@
-execute as @e[type=minecraft:item_display,tag=aj.eras.root] run function animated_java:eras/zzzzzzzz/remove/as_root

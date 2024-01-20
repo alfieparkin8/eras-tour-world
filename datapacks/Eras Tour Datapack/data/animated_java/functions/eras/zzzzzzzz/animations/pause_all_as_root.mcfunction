@@ -1,1 +1,0 @@
-function animated_java:eras/zzzzzzzz/animations/strum/pause_as_root
