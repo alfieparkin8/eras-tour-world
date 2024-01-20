@@ -1,0 +1,1 @@
+execute rotated 90 0 positioned -163.45 26 -97 run function animated_java:screen/summon
