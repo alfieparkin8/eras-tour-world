@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.microphone.animation.sing] run function animated_java:microphone/zzzzzzzz/animations/sing/tick

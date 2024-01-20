@@ -1,0 +1,1 @@
+function animated_java:microphone/zzzzzzzz/animations/sing/pause_as_root

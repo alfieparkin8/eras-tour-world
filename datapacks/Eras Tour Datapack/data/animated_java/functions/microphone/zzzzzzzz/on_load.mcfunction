@@ -1,0 +1,2 @@
+scoreboard players set @s aj.microphone.rig_loaded 1
+execute unless score @s aj.microphone.export_version = aj.microphone.export_version aj.i at @s run function animated_java:microphone/zzzzzzzz/mark_outdated_rig

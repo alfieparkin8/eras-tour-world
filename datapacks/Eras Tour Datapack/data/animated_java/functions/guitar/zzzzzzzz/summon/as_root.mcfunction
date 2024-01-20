@@ -11,6 +11,8 @@ execute if score #variant aj.i = $aj.guitar.variant.lover aj.id run function ani
 execute if score #animation aj.i matches 0.. run scoreboard players operation @s aj.anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.guitar.animation.strum aj.id run function animated_java:guitar/zzzzzzzz/animations/strum/apply_frame_as_root
 execute if score #animation aj.i = $aj.guitar.animation.strum aj.id run scoreboard players operation @s aj.guitar.animation.strum.local_anim_time = #frame aj.i
+execute if score #animation aj.i = $aj.guitar.animation.test aj.id run function animated_java:guitar/zzzzzzzz/animations/test/apply_frame_as_root
+execute if score #animation aj.i = $aj.guitar.animation.test aj.id run scoreboard players operation @s aj.guitar.animation.test.local_anim_time = #frame aj.i
 execute at @s run function #animated_java:guitar/on_summon/as_root
 tag @s remove aj.new
 scoreboard players reset #frame aj.i
