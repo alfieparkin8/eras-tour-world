@@ -1,1 +1,0 @@
-function animated_java:screen/zzzzzzzz/apply_variant/0/as_bone

@@ -2,7 +2,6 @@
 	"replace": false,
 	"values": [
 		"animated_java:guitar/zzzzzzzz/tick",
-		"animated_java:microphone/zzzzzzzz/tick",
-		"animated_java:screen/zzzzzzzz/tick"
+		"animated_java:microphone/zzzzzzzz/tick"
 	]
 }

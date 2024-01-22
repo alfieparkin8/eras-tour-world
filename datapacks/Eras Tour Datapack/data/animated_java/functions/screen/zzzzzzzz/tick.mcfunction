@@ -1,1 +1,0 @@
-execute if entity @s[tag=aj.screen.root] run function animated_java:screen/zzzzzzzz/tick_as_root
