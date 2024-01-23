@@ -28,3 +28,15 @@ schedule function eras_tour:screen/clock/1 14s
 schedule function eras_tour:screen/clock/ticking 14s append
 schedule function eras_tour:screen/clock/0 15s
 schedule function eras_tour:screen/clock/ding 15s append
+schedule function eras_tour:screen/clock/fade/1 320t append
+schedule function eras_tour:screen/clock/fade/2 325t append
+schedule function eras_tour:screen/clock/fade/3 330t append
+schedule function eras_tour:screen/clock/fade/4 335t append
+schedule function eras_tour:screen/clock/fade/5 340t append
+schedule function eras_tour:screen/clock/fade/6 345t append
+schedule function eras_tour:screen/clock/fade/7 350t append
+schedule function eras_tour:screen/black_sides 350t append
+schedule function eras_tour:screen/clock/fade/8 355t append
+schedule function eras_tour:screen/clock/fade/9 360t append
+schedule function eras_tour:screen/clock/fade/10 365t append
+schedule function eras_tour:screen/black 370t append

@@ -1,0 +1,1 @@
+execute if score @s aj.anim_time matches 0..145 run function animated_java:parachute/zzzzzzzz/animations/fan/tree/branch_0_145

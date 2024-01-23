@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.parachute.root] run function animated_java:parachute/zzzzzzzz/tick_as_root

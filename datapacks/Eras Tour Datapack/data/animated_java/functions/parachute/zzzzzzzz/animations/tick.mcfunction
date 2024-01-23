@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.parachute.animation.fan] run function animated_java:parachute/zzzzzzzz/animations/fan/tick

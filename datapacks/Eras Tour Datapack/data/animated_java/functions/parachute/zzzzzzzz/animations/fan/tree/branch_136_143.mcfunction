@@ -1,0 +1,2 @@
+execute if score @s aj.anim_time matches 136 run function animated_java:parachute/zzzzzzzz/animations/fan/tree/leaf_136
+execute if score @s aj.anim_time matches 137 run function animated_java:parachute/zzzzzzzz/animations/fan/tree/leaf_137

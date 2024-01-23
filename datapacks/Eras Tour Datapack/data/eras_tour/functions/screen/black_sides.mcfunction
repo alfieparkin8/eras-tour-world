@@ -1,0 +1,2 @@
+execute as @e[tag=right-screen] run data merge entity @s {item:{id:"minecraft:pink_dye",tag:{CustomModelData:1}}}
+execute as @e[tag=left-screen] run data merge entity @s {item:{id:"minecraft:pink_dye",tag:{CustomModelData:1}}}

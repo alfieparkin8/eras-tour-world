@@ -1,0 +1,1 @@
+execute on passengers run function animated_java:parachute/zzzzzzzz/apply_variant/zuri/as_bone

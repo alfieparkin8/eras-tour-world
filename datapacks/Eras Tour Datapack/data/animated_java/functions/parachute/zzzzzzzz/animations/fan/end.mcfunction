@@ -1,0 +1,3 @@
+execute if score @s aj.parachute.animation.fan.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:parachute/zzzzzzzz/animations/fan/end_loop
+execute if score @s aj.parachute.animation.fan.loop_mode = $aj.loop_mode.once aj.i run function animated_java:parachute/animations/fan/stop
+execute if score @s aj.parachute.animation.fan.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:parachute/animations/fan/pause
