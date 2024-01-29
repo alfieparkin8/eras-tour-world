@@ -1,0 +1,1 @@
+function animated_java:parachute/zzzzzzzz/animations/rotate_left/tick_animation

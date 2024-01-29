@@ -19,6 +19,16 @@ execute if score #variant aj.i = $aj.parachute.variant.zuri aj.id run function a
 execute if score #animation aj.i matches 0.. run scoreboard players operation @s aj.anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.parachute.animation.fan aj.id run function animated_java:parachute/zzzzzzzz/animations/fan/apply_frame_as_root
 execute if score #animation aj.i = $aj.parachute.animation.fan aj.id run scoreboard players operation @s aj.parachute.animation.fan.local_anim_time = #frame aj.i
+execute if score #animation aj.i = $aj.parachute.animation.in aj.id run function animated_java:parachute/zzzzzzzz/animations/in/apply_frame_as_root
+execute if score #animation aj.i = $aj.parachute.animation.in aj.id run scoreboard players operation @s aj.parachute.animation.in.local_anim_time = #frame aj.i
+execute if score #animation aj.i = $aj.parachute.animation.out aj.id run function animated_java:parachute/zzzzzzzz/animations/out/apply_frame_as_root
+execute if score #animation aj.i = $aj.parachute.animation.out aj.id run scoreboard players operation @s aj.parachute.animation.out.local_anim_time = #frame aj.i
+execute if score #animation aj.i = $aj.parachute.animation.walk aj.id run function animated_java:parachute/zzzzzzzz/animations/walk/apply_frame_as_root
+execute if score #animation aj.i = $aj.parachute.animation.walk aj.id run scoreboard players operation @s aj.parachute.animation.walk.local_anim_time = #frame aj.i
+execute if score #animation aj.i = $aj.parachute.animation.rotate_right aj.id run function animated_java:parachute/zzzzzzzz/animations/rotate_right/apply_frame_as_root
+execute if score #animation aj.i = $aj.parachute.animation.rotate_right aj.id run scoreboard players operation @s aj.parachute.animation.rotate_right.local_anim_time = #frame aj.i
+execute if score #animation aj.i = $aj.parachute.animation.rotate_left aj.id run function animated_java:parachute/zzzzzzzz/animations/rotate_left/apply_frame_as_root
+execute if score #animation aj.i = $aj.parachute.animation.rotate_left aj.id run scoreboard players operation @s aj.parachute.animation.rotate_left.local_anim_time = #frame aj.i
 execute at @s run function #animated_java:parachute/on_summon/as_root
 tag @s remove aj.new
 scoreboard players reset #frame aj.i

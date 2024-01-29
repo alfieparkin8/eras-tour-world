@@ -1,1 +1,2 @@
 function animated_java:microphone/zzzzzzzz/animations/sing/pause_as_root
+function animated_java:microphone/zzzzzzzz/animations/walk/pause_as_root

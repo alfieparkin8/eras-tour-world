@@ -1,0 +1,1 @@
+tag @s remove aj.parachute.animation.rotate_left

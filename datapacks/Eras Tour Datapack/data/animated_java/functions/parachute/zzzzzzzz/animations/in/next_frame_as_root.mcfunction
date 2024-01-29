@@ -1,0 +1,1 @@
+function animated_java:parachute/zzzzzzzz/animations/in/tick_animation

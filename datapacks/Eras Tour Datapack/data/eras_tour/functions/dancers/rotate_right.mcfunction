@@ -1,2 +1,3 @@
-execute as @e[tag=fan,sort=nearest,limit=1] at @s run tp @s ~ ~ ~ 135 0
-tag @e[tag=fan,sort=nearest,limit=1] add diagonal
+execute as @e[tag=turn-right] run function animated_java:parachute/animations/fan/stop
+execute as @e[tag=turn-right] run function animated_java:parachute/animations/rotate_right/play
+schedule function eras_tour:dancers/right 2s

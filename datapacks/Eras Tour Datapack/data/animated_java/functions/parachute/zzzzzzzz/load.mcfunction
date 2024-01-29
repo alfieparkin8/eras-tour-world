@@ -6,8 +6,23 @@ scoreboard objectives add aj.life_time dummy
 scoreboard objectives add aj.parachute.export_version dummy
 scoreboard objectives add aj.parachute.rig_loaded dummy
 scoreboard objectives add aj.parachute.animation.fan.local_anim_time dummy
+scoreboard objectives add aj.parachute.animation.in.local_anim_time dummy
+scoreboard objectives add aj.parachute.animation.out.local_anim_time dummy
+scoreboard objectives add aj.parachute.animation.walk.local_anim_time dummy
+scoreboard objectives add aj.parachute.animation.rotate_right.local_anim_time dummy
+scoreboard objectives add aj.parachute.animation.rotate_left.local_anim_time dummy
 scoreboard objectives add aj.parachute.animation.fan.loop_mode dummy
+scoreboard objectives add aj.parachute.animation.in.loop_mode dummy
+scoreboard objectives add aj.parachute.animation.out.loop_mode dummy
+scoreboard objectives add aj.parachute.animation.walk.loop_mode dummy
+scoreboard objectives add aj.parachute.animation.rotate_right.loop_mode dummy
+scoreboard objectives add aj.parachute.animation.rotate_left.loop_mode dummy
 scoreboard players set $aj.parachute.animation.fan aj.id 0
+scoreboard players set $aj.parachute.animation.in aj.id 1
+scoreboard players set $aj.parachute.animation.out aj.id 2
+scoreboard players set $aj.parachute.animation.walk aj.id 3
+scoreboard players set $aj.parachute.animation.rotate_right aj.id 4
+scoreboard players set $aj.parachute.animation.rotate_left aj.id 5
 scoreboard players set $aj.parachute.variant.steve aj.id 0
 scoreboard players set $aj.parachute.variant.alex aj.id 1
 scoreboard players set $aj.parachute.variant.ari aj.id 2
@@ -21,6 +36,6 @@ scoreboard players add .aj.last_id aj.id 0
 scoreboard players set $aj.loop_mode.loop aj.i 0
 scoreboard players set $aj.loop_mode.once aj.i 1
 scoreboard players set $aj.loop_mode.hold aj.i 2
-scoreboard players set aj.parachute.export_version aj.i 827493516
+scoreboard players set aj.parachute.export_version aj.i 969204191
 scoreboard players reset * aj.parachute.rig_loaded
 execute as @e[type=minecraft:item_display,tag=aj.parachute.root] run function animated_java:parachute/zzzzzzzz/on_load

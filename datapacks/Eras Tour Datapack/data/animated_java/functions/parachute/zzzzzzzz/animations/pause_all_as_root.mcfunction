@@ -1,1 +1,6 @@
 function animated_java:parachute/zzzzzzzz/animations/fan/pause_as_root
+function animated_java:parachute/zzzzzzzz/animations/in/pause_as_root
+function animated_java:parachute/zzzzzzzz/animations/out/pause_as_root
+function animated_java:parachute/zzzzzzzz/animations/walk/pause_as_root
+function animated_java:parachute/zzzzzzzz/animations/rotate_right/pause_as_root
+function animated_java:parachute/zzzzzzzz/animations/rotate_left/pause_as_root

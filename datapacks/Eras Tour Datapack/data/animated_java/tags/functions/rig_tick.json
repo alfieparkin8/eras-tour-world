@@ -1,8 +1,1 @@
-{
-	"replace": false,
-	"values": [
-		"animated_java:guitar/zzzzzzzz/tick",
-		"animated_java:microphone/zzzzzzzz/tick",
-		"animated_java:parachute/zzzzzzzz/tick"
-	]
-}
+{"replace":false,"values":["animated_java:parachute/zzzzzzzz/tick","animated_java:microphone/zzzzzzzz/tick","animated_java:guitar/zzzzzzzz/tick"]}
