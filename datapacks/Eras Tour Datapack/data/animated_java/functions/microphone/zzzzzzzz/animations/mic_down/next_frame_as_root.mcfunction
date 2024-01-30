@@ -1,0 +1,1 @@
+function animated_java:microphone/zzzzzzzz/animations/mic_down/tick_animation

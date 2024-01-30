@@ -1,1 +1,0 @@
-execute if score @s aj.anim_time matches 0..320 run function animated_java:microphone/zzzzzzzz/animations/sing/tree/branch_0_320

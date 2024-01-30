@@ -1,0 +1,1 @@
+tag @s remove aj.microphone.animation.mic_down

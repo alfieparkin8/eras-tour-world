@@ -1,1 +1,0 @@
-effect give @e[tag=fan] minecraft:glowing 5 1 true

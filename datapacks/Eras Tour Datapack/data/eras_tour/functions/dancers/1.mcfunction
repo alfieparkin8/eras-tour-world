@@ -1,6 +1,6 @@
-kill @e[type=wandering_trader,tag=straight1]
-summon minecraft:wandering_trader -162 19 -86 {Silent:1b,Tags:["straight1"],WanderTarget:{X:-189,Y:18,Z:-86}}
-effect give @e[tag=straight1] minecraft:slowness infinite 2 true
-
-summon minecraft:armor_stand -162 26 -86 {Tags:["fan","1"],ArmorItems:[{},{},{},{id:"minecraft:purpur_block",Count:1b}],Rotation:[90.0f,0.0f]}
 setblock -173 22 -74 minecraft:redstone_block
+execute positioned -173 26 -86 rotated 90 0 run function animated_java:parachute/summon
+#to test execute positioned -162 26 -86 rotated 90 0 run function animated_java:parachute/summon
+execute as @e[tag=aj.parachute.root] run tag @s add dancer1 
+execute as @e[tag=dancer1] run function animated_java:parachute/animations/fan/play
+execute as @e[tag=dancer1] run function animated_java:parachute/animations/walk/play
