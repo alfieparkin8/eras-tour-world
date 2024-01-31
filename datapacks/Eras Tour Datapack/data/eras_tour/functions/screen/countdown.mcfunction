@@ -2,6 +2,7 @@ execute as @e[tag=right-screen] run data merge entity @s {item:{id:"minecraft:li
 execute as @e[tag=left-screen] run data merge entity @s {item:{id:"minecraft:red_dye",tag:{CustomModelData:2}}}
 execute as @e[tag=screen] run data merge entity @s {item:{id:"minecraft:black_dye",tag:{CustomModelData:3}}}
 schedule function eras_tour:screen/clock/ticking 2s append
+schedule function eras_tour:music/intro 2s append
 schedule function eras_tour:screen/clock/12 3s
 schedule function eras_tour:screen/clock/tocking 3s append
 schedule function eras_tour:screen/clock/11 4s

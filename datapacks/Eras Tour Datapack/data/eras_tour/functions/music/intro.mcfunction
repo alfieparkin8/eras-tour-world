@@ -1,0 +1,1 @@
+playsound audio:music.intro master @a ~ ~ ~ 10 1 1 

@@ -1,1 +1,1 @@
-playsound audio:clock.tick voice @a ~ ~ ~ 10 1 1 
+playsound audio:clock.tick master @a ~ ~ ~ 10 1 1 
