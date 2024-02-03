@@ -2,3 +2,4 @@ function animated_java:microphone/zzzzzzzz/animations/walk/pause_as_root
 function animated_java:microphone/zzzzzzzz/animations/idle/pause_as_root
 function animated_java:microphone/zzzzzzzz/animations/hand_down/pause_as_root
 function animated_java:microphone/zzzzzzzz/animations/around_and_up/pause_as_root
+function animated_java:microphone/zzzzzzzz/animations/mic_down/pause_as_root

@@ -959,5 +959,71 @@
     },
     "done": true
   },
-  "DataVersion": 3700
+  "webdisplays:screen": {
+    "criteria": {
+      "has_screen": "2024-02-03 14:18:13 +0000"
+    },
+    "done": true
+  },
+  "webdisplays:link_peripheral": {
+    "criteria": {
+      "link_peripheral": "2024-02-03 15:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-02-03 16:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-02-03 16:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-02-03 16:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-02-03 16:00:16 +0000"
+    },
+    "done": true
+  },
+  "webdisplays:upgrade": {
+    "criteria": {
+      "upgrade_screen": "2024-02-03 16:03:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-02-03 16:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-02-03 16:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-02-03 16:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-02-03 16:00:17 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
 }
