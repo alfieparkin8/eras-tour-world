@@ -1,6 +1,5 @@
 
-execute positioned -191 25 -83 rotated 135 0 run function animated_java:parachute/summon/alex
-execute as @e[tag=aj.parachute.root] unless entity @s[tag=dancer1] run tag @s add dancer2
+
 execute positioned -191 25 -89 rotated 45 0 run function animated_java:parachute/summon/ari
 execute as @e[tag=aj.parachute.root] unless entity @s[tag=dancer1,tag=dancer2] run tag @s add dancer3
 execute positioned -194 25 -80 rotated 180 0 run function animated_java:parachute/summon/noor
