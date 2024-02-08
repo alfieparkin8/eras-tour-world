@@ -17,8 +17,8 @@ execute if score #animation aj.i = $aj.microphone.animation.hand_down aj.id run 
 execute if score #animation aj.i = $aj.microphone.animation.hand_down aj.id run scoreboard players operation @s aj.microphone.animation.hand_down.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.microphone.animation.around_and_up aj.id run function animated_java:microphone/zzzzzzzz/animations/around_and_up/apply_frame_as_root
 execute if score #animation aj.i = $aj.microphone.animation.around_and_up aj.id run scoreboard players operation @s aj.microphone.animation.around_and_up.local_anim_time = #frame aj.i
-execute if score #animation aj.i = $aj.microphone.animation.mic_down aj.id run function animated_java:microphone/zzzzzzzz/animations/mic_down/apply_frame_as_root
-execute if score #animation aj.i = $aj.microphone.animation.mic_down aj.id run scoreboard players operation @s aj.microphone.animation.mic_down.local_anim_time = #frame aj.i
+execute if score #animation aj.i = $aj.microphone.animation.rolling aj.id run function animated_java:microphone/zzzzzzzz/animations/rolling/apply_frame_as_root
+execute if score #animation aj.i = $aj.microphone.animation.rolling aj.id run scoreboard players operation @s aj.microphone.animation.rolling.local_anim_time = #frame aj.i
 execute at @s run function #animated_java:microphone/on_summon/as_root
 tag @s remove aj.new
 scoreboard players reset #frame aj.i

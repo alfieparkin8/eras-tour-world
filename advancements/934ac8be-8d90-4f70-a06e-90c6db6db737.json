@@ -971,6 +971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-02-03 16:00:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-02-03 16:00:17 +0000"
@@ -986,18 +992,6 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-02-03 16:00:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2024-02-03 16:00:16 +0000"
-    },
-    "done": true
-  },
-  "webdisplays:upgrade": {
-    "criteria": {
-      "upgrade_screen": "2024-02-03 16:03:48 +0000"
     },
     "done": true
   },
@@ -1022,6 +1016,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-02-03 16:00:17 +0000"
+    },
+    "done": true
+  },
+  "webdisplays:upgrade": {
+    "criteria": {
+      "upgrade_screen": "2024-02-03 16:03:48 +0000"
     },
     "done": true
   },
