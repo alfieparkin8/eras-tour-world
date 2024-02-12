@@ -1,1 +1,1 @@
-execute as @e[tag=taylor] run function animated_java:microphone/animations/around_and_up/play
+execute as @e[tag=taylor] run function animated_java:lover_microphone/animations/around_and_up/play

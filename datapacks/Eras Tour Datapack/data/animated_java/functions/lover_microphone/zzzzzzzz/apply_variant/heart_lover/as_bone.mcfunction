@@ -1,0 +1,10 @@
+execute if entity @s[tag=aj.lover_microphone.bone.left_straight] run data modify entity @s item.tag.CustomModelData set value 112
+execute if entity @s[tag=aj.lover_microphone.bone.left_bend] run data modify entity @s item.tag.CustomModelData set value 113
+execute if entity @s[tag=aj.lover_microphone.bone.right_straight] run data modify entity @s item.tag.CustomModelData set value 114
+execute if entity @s[tag=aj.lover_microphone.bone.microphone] run data modify entity @s item.tag.CustomModelData set value 115
+execute if entity @s[tag=aj.lover_microphone.bone.right_bend] run data modify entity @s item.tag.CustomModelData set value 116
+execute if entity @s[tag=aj.lover_microphone.bone.head] run data modify entity @s item.tag.CustomModelData set value 117
+execute if entity @s[tag=aj.lover_microphone.bone.outfit] run data modify entity @s item.tag.CustomModelData set value 118
+execute if entity @s[tag=aj.lover_microphone.bone.chest] run data modify entity @s item.tag.CustomModelData set value 119
+execute if entity @s[tag=aj.lover_microphone.bone.right_leg] run data modify entity @s item.tag.CustomModelData set value 120
+execute if entity @s[tag=aj.lover_microphone.bone.left_leg] run data modify entity @s item.tag.CustomModelData set value 121

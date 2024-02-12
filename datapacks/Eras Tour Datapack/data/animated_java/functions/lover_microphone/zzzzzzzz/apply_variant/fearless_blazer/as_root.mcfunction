@@ -1,0 +1,1 @@
+execute on passengers run function animated_java:lover_microphone/zzzzzzzz/apply_variant/fearless_blazer/as_bone

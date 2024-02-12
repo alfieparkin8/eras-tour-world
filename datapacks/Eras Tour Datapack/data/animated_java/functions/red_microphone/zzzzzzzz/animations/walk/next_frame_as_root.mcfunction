@@ -1,0 +1,1 @@
+function animated_java:red_microphone/zzzzzzzz/animations/walk/tick_animation

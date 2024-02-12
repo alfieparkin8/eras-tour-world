@@ -1,0 +1,1 @@
+tag @s remove aj.red_microphone.animation.rolling

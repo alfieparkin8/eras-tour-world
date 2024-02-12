@@ -1,1 +1,1 @@
-execute as @e[tag=taylor] run function animated_java:microphone/animations/idle/play
+execute as @e[tag=taylor] run function animated_java:lover_microphone/animations/idle/play

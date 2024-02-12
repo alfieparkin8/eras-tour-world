@@ -1,1 +1,0 @@
-tag @s remove aj.microphone.animation.around_and_up

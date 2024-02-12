@@ -1,1 +1,0 @@
-execute if score @s aj.anim_time matches 0..79 run function animated_java:microphone/zzzzzzzz/animations/rolling/tree/branch_0_79

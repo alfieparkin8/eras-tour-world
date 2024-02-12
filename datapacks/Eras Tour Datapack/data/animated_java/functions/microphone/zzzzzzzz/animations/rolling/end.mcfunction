@@ -1,3 +1,0 @@
-execute if score @s aj.microphone.animation.rolling.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:microphone/zzzzzzzz/animations/rolling/end_loop
-execute if score @s aj.microphone.animation.rolling.loop_mode = $aj.loop_mode.once aj.i run function animated_java:microphone/animations/rolling/stop
-execute if score @s aj.microphone.animation.rolling.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:microphone/animations/rolling/pause
