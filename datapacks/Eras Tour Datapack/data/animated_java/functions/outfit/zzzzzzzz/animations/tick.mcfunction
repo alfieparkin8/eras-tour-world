@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.outfit.animation.spin] run function animated_java:outfit/zzzzzzzz/animations/spin/tick

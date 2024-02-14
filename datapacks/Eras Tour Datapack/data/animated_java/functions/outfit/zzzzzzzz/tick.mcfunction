@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.outfit.root] run function animated_java:outfit/zzzzzzzz/tick_as_root

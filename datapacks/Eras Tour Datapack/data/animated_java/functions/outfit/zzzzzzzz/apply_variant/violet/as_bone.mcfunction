@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.outfit.bone.outfit] run data modify entity @s item.tag.CustomModelData set value 5

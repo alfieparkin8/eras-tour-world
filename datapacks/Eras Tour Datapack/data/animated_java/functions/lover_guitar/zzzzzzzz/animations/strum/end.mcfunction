@@ -1,0 +1,3 @@
+execute if score @s aj.lover_guitar.animation.strum.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:lover_guitar/zzzzzzzz/animations/strum/end_loop
+execute if score @s aj.lover_guitar.animation.strum.loop_mode = $aj.loop_mode.once aj.i run function animated_java:lover_guitar/animations/strum/stop
+execute if score @s aj.lover_guitar.animation.strum.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:lover_guitar/animations/strum/pause

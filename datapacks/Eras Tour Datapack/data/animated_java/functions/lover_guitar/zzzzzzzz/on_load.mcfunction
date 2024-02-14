@@ -1,0 +1,2 @@
+scoreboard players set @s aj.lover_guitar.rig_loaded 1
+execute unless score @s aj.lover_guitar.export_version = aj.lover_guitar.export_version aj.i at @s run function animated_java:lover_guitar/zzzzzzzz/mark_outdated_rig

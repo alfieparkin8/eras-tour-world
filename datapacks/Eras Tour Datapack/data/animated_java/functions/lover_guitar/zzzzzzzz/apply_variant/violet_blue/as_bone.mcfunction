@@ -1,0 +1,11 @@
+execute if entity @s[tag=aj.lover_guitar.bone.head] run data modify entity @s item.tag.CustomModelData set value 182
+execute if entity @s[tag=aj.lover_guitar.bone.shoes] run data modify entity @s item.tag.CustomModelData set value 183
+execute if entity @s[tag=aj.lover_guitar.bone.outfit] run data modify entity @s item.tag.CustomModelData set value 184
+execute if entity @s[tag=aj.lover_guitar.bone.body] run data modify entity @s item.tag.CustomModelData set value 185
+execute if entity @s[tag=aj.lover_guitar.bone.right_leg] run data modify entity @s item.tag.CustomModelData set value 186
+execute if entity @s[tag=aj.lover_guitar.bone.left_leg] run data modify entity @s item.tag.CustomModelData set value 187
+execute if entity @s[tag=aj.lover_guitar.bone.left_arm] run data modify entity @s item.tag.CustomModelData set value 188
+execute if entity @s[tag=aj.lover_guitar.bone.right_arm] run data modify entity @s item.tag.CustomModelData set value 189
+execute if entity @s[tag=aj.lover_guitar.bone.circle] run data modify entity @s item.tag.CustomModelData set value 190
+execute if entity @s[tag=aj.lover_guitar.bone.base] run data modify entity @s item.tag.CustomModelData set value 191
+execute if entity @s[tag=aj.lover_guitar.bone.neck] run data modify entity @s item.tag.CustomModelData set value 192

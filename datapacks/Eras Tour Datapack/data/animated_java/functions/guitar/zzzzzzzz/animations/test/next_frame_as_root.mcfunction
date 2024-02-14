@@ -1,1 +1,0 @@
-function animated_java:guitar/zzzzzzzz/animations/test/tick_animation

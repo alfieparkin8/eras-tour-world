@@ -1,1 +1,0 @@
-execute if score @s aj.anim_time matches 0..240 run function animated_java:guitar/zzzzzzzz/animations/strum/tree/branch_0_240

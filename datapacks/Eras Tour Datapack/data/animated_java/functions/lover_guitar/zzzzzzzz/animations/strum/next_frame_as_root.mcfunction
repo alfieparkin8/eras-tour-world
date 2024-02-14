@@ -1,0 +1,1 @@
+function animated_java:lover_guitar/zzzzzzzz/animations/strum/tick_animation

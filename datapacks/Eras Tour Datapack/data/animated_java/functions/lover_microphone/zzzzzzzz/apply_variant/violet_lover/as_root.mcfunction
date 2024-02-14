@@ -1,1 +1,0 @@
-execute on passengers run function animated_java:lover_microphone/zzzzzzzz/apply_variant/violet_lover/as_bone

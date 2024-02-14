@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.lover_guitar.animation.strum] run function animated_java:lover_guitar/zzzzzzzz/animations/strum/tick

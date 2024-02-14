@@ -1,0 +1,1 @@
+execute as @e[tag=aj.outfit.root] on passengers run data modify entity @s Glowing set value 0

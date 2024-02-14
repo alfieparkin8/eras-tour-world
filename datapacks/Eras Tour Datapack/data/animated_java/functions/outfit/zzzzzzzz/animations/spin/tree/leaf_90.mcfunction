@@ -1,0 +1,1 @@
+execute on passengers run function animated_java:outfit/zzzzzzzz/animations/spin/tree/leaf_90_as_bone

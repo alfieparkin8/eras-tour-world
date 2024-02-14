@@ -1,0 +1,1 @@
+execute as @e[tag=aj.lover_guitar.root,limit=1] run function animated_java:lover_guitar/animations/strum/play

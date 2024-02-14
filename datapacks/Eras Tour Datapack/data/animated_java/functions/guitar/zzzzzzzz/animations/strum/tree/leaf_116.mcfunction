@@ -1,1 +1,0 @@
-execute on passengers run function animated_java:guitar/zzzzzzzz/animations/strum/tree/leaf_116_as_bone

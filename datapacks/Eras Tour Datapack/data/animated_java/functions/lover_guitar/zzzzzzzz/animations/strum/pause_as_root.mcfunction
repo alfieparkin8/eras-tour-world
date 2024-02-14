@@ -1,0 +1,1 @@
+tag @s remove aj.lover_guitar.animation.strum
