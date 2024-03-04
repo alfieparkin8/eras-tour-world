@@ -1,1 +1,2 @@
+execute if entity @s[tag=aj.outfit.bone.shoes] run data modify entity @s {} merge value {transformation:[-0.8910065241883679f,0f,-0.4539904997395469f,0.13418143098109037f,0f,1f,0f,0.75f,0.4539904997395469f,0f,-0.8910065241883679f,-0.0607234640822982f,0f,0f,0f,1f],start_interpolation:0}
 execute if entity @s[tag=aj.outfit.bone.outfit] run data modify entity @s {} merge value {transformation:[-0.8910065241883679f,0f,-0.4539904997395469f,7.654042494670958e-18f,0f,1f,0f,1.0625f,0.4539904997395469f,0f,-0.8910065241883679f,-0.0625f,0f,0f,0f,1f],start_interpolation:0}

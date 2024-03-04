@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.reputation.root] run function animated_java:reputation/zzzzzzzz/tick_as_root

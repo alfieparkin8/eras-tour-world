@@ -1,0 +1,2 @@
+scoreboard players set @s aj.reputation.rig_loaded 1
+execute unless score @s aj.reputation.export_version = aj.reputation.export_version aj.i at @s run function animated_java:reputation/zzzzzzzz/mark_outdated_rig

@@ -1,0 +1,1 @@
+function animated_java:reputation/zzzzzzzz/animations/idle/tick_animation

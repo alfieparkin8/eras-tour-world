@@ -1,0 +1,1 @@
+execute positioned -168 26 -86 rotated 90 0 run function animated_java:cabin/summon

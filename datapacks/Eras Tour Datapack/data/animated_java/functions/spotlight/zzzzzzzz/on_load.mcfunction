@@ -1,0 +1,2 @@
+scoreboard players set @s aj.spotlight.rig_loaded 1
+execute unless score @s aj.spotlight.export_version = aj.spotlight.export_version aj.i at @s run function animated_java:spotlight/zzzzzzzz/mark_outdated_rig

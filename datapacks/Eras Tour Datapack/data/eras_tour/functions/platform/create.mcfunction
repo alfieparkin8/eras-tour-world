@@ -1,3 +1,4 @@
+tp @e[tag=platform] ~ ~-100 ~
 kill @e[tag=platform]
 summon armor_stand -193 24 -87 {Tags:["platform"],Marker:1b,Invisible:1b,Passengers:[{id:"minecraft:shulker",NoAI:1b,Silent:1b,NoGravity:1b,Invulnerable:1b,ActiveEffects:[{Id:14,Amplifier:1,Duration:1000000,ShowParticles:0b}],Tags:["platform"],DeathLootTable:"empty"},{id:"falling_block",NoGravity:1,Time:-1000000,DropItem:0,BlockState:{Name:"minecraft:black_concrete"},Tags:["platform"]}]}
 summon armor_stand -193 24 -86 {Tags:["platform"],Marker:1b,Invisible:1b,Passengers:[{id:"minecraft:shulker",NoAI:1b,Silent:1b,NoGravity:1b,Invulnerable:1b,ActiveEffects:[{Id:14,Amplifier:1,Duration:1000000,ShowParticles:0b}],Tags:["platform"],DeathLootTable:"empty"},{id:"falling_block",NoGravity:1,Time:-1000000,DropItem:0,BlockState:{Name:"minecraft:black_concrete"},Tags:["platform"]}]}

@@ -1,0 +1,1 @@
+function animated_java:1989_sing/zzzzzzzz/animations/hips/tick_animation

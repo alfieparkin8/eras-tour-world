@@ -1,6 +1,6 @@
 function eras_tour:close_screen
 function eras_tour:platform/create
-function eras_tour:screen/summon
+function eras_tour:screen/remove
 function eras_tour:taylor/remove
 function eras_tour:lights/lit
 function eras_tour:stage/remove

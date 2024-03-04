@@ -1,0 +1,3 @@
+execute if score @s aj.reputation.animation.idle.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:reputation/zzzzzzzz/animations/idle/end_loop
+execute if score @s aj.reputation.animation.idle.loop_mode = $aj.loop_mode.once aj.i run function animated_java:reputation/animations/idle/stop
+execute if score @s aj.reputation.animation.idle.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:reputation/animations/idle/pause

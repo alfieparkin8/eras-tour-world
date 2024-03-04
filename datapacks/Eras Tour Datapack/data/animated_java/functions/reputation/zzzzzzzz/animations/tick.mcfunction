@@ -1,0 +1,2 @@
+execute if entity @s[tag=aj.reputation.animation.walk] run function animated_java:reputation/zzzzzzzz/animations/walk/tick
+execute if entity @s[tag=aj.reputation.animation.idle] run function animated_java:reputation/zzzzzzzz/animations/idle/tick

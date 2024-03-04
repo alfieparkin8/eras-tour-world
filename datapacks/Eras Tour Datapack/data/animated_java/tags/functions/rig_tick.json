@@ -1,1 +1,15 @@
-{"replace":false,"values":["animated_java:parachute/zzzzzzzz/tick","animated_java:red_microphone/zzzzzzzz/tick","animated_java:lover_microphone/zzzzzzzz/tick","animated_java:lover_guitar/zzzzzzzz/tick","animated_java:outfit/zzzzzzzz/tick"]}
+{
+	"replace": false,
+	"values": [
+		"animated_java:parachute/zzzzzzzz/tick",
+		"animated_java:guitar/zzzzzzzz/tick",
+		"animated_java:outfit/zzzzzzzz/tick",
+		"animated_java:red_microphone/zzzzzzzz/tick",
+		"animated_java:cabin/zzzzzzzz/tick",
+		"animated_java:1989_sing/zzzzzzzz/tick",
+		"animated_java:lover_microphone/zzzzzzzz/tick",
+		"animated_java:lover_guitar/zzzzzzzz/tick",
+		"animated_java:reputation/zzzzzzzz/tick",
+		"animated_java:spotlight/zzzzzzzz/tick"
+	]
+}

@@ -1,0 +1,2 @@
+function animated_java:reputation/zzzzzzzz/animations/walk/pause_as_root
+function animated_java:reputation/zzzzzzzz/animations/idle/pause_as_root
