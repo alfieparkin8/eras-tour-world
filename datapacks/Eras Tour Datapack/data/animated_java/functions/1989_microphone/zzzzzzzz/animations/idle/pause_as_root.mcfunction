@@ -1,0 +1,1 @@
+tag @s remove aj.1989_microphone.animation.idle

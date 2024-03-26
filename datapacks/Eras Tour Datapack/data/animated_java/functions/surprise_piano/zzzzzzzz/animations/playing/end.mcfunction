@@ -1,0 +1,3 @@
+execute if score @s aj.surprise_piano.animation.playing.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:surprise_piano/zzzzzzzz/animations/playing/end_loop
+execute if score @s aj.surprise_piano.animation.playing.loop_mode = $aj.loop_mode.once aj.i run function animated_java:surprise_piano/animations/playing/stop
+execute if score @s aj.surprise_piano.animation.playing.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:surprise_piano/animations/playing/pause

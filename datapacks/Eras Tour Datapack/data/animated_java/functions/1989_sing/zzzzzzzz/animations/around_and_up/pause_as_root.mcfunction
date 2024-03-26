@@ -1,1 +1,0 @@
-tag @s remove aj.1989_sing.animation.around_and_up

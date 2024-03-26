@@ -1,0 +1,2 @@
+execute if entity @s[tag=aj.surprise_piano.root] run function animated_java:surprise_piano/zzzzzzzz/animations/playing/pause_as_root
+execute if entity @s[tag=!aj.surprise_piano.root] run tellraw @a ["",{"text":"["},{"text":"Animated Java","color":"aqua"},{"text":"] "},{"text":"ERROR ☠","color":"red"},{"text":" > ","color":"gray"},[{"text":"The function","color":"yellow"},{"text":" animated_java:surprise_piano/animations/playing/pause ","color":"blue"},{"text":"must be run"},{"text":" as ","color":"red"},{"text":"the root entity!"}]]

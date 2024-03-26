@@ -1,0 +1,1 @@
+tag @s remove aj.surprise_piano.animation.playing

@@ -1,0 +1,2 @@
+function animated_java:surprise_piano/zzzzzzzz/animations/playing/pause_as_root
+function animated_java:surprise_piano/zzzzzzzz/animations/spin/pause_as_root

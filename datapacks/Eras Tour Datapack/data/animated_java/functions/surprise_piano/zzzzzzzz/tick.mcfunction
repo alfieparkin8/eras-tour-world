@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.surprise_piano.root] run function animated_java:surprise_piano/zzzzzzzz/tick_as_root

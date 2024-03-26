@@ -1,0 +1,1 @@
+tag @s remove aj.surprise_sing.animation.hand_down

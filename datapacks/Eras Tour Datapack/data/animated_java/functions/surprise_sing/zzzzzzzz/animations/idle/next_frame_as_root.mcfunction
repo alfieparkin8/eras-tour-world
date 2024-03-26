@@ -1,0 +1,1 @@
+function animated_java:surprise_sing/zzzzzzzz/animations/idle/tick_animation

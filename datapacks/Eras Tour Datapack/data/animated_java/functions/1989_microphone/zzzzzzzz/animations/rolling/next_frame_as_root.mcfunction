@@ -1,0 +1,1 @@
+function animated_java:1989_microphone/zzzzzzzz/animations/rolling/tick_animation

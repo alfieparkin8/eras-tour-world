@@ -1,0 +1,1 @@
+execute rotated 90 0 positioned -189 25 -86 run function animated_java:folklore_microphone/summon

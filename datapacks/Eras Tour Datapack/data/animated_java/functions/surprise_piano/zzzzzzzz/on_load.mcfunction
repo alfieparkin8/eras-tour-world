@@ -1,0 +1,2 @@
+scoreboard players set @s aj.surprise_piano.rig_loaded 1
+execute unless score @s aj.surprise_piano.export_version = aj.surprise_piano.export_version aj.i at @s run function animated_java:surprise_piano/zzzzzzzz/mark_outdated_rig

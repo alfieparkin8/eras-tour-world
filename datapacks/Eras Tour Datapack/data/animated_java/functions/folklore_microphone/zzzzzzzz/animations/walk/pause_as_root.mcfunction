@@ -1,0 +1,1 @@
+tag @s remove aj.folklore_microphone.animation.walk

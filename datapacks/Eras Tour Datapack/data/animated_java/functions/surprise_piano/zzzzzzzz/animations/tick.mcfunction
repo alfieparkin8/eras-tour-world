@@ -1,0 +1,2 @@
+execute if entity @s[tag=aj.surprise_piano.animation.playing] run function animated_java:surprise_piano/zzzzzzzz/animations/playing/tick
+execute if entity @s[tag=aj.surprise_piano.animation.spin] run function animated_java:surprise_piano/zzzzzzzz/animations/spin/tick

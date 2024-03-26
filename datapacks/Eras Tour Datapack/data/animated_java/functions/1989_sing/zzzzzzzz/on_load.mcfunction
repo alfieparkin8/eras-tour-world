@@ -1,2 +1,0 @@
-scoreboard players set @s aj.1989_sing.rig_loaded 1
-execute unless score @s aj.1989_sing.export_version = aj.1989_sing.export_version aj.i at @s run function animated_java:1989_sing/zzzzzzzz/mark_outdated_rig

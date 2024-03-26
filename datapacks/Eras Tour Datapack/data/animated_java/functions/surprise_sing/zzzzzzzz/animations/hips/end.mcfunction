@@ -1,0 +1,3 @@
+execute if score @s aj.surprise_sing.animation.hips.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:surprise_sing/zzzzzzzz/animations/hips/end_loop
+execute if score @s aj.surprise_sing.animation.hips.loop_mode = $aj.loop_mode.once aj.i run function animated_java:surprise_sing/animations/hips/stop
+execute if score @s aj.surprise_sing.animation.hips.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:surprise_sing/animations/hips/pause

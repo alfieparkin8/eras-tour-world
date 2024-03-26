@@ -1,0 +1,2 @@
+execute if score @s aj.tween_time matches 1.. run function animated_java:surprise_piano/zzzzzzzz/animations/spin/tick_tween
+execute unless score @s aj.tween_time matches 1.. run function animated_java:surprise_piano/zzzzzzzz/animations/spin/tick_animation

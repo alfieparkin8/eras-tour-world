@@ -1,0 +1,1 @@
+function animated_java:1989_microphone/zzzzzzzz/animations/idle/tick_animation

@@ -1,0 +1,1 @@
+tag @s remove aj.1989_microphone.animation.around_and_up

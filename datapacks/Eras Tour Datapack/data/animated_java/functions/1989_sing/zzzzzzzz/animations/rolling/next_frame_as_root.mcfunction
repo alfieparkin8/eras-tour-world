@@ -1,1 +1,0 @@
-function animated_java:1989_sing/zzzzzzzz/animations/rolling/tick_animation

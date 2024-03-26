@@ -1,0 +1,1 @@
+tag @s remove aj.surprise_sing.animation.around_and_up

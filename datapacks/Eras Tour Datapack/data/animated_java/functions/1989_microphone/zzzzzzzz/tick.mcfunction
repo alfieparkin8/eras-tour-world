@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.1989_microphone.root] run function animated_java:1989_microphone/zzzzzzzz/tick_as_root

@@ -1,0 +1,1 @@
+function animated_java:surprise_piano/zzzzzzzz/animations/playing/tick_animation
