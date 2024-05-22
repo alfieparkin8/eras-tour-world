@@ -1,0 +1,1 @@
+function animated_java:tolerate/zzzzzzzz/animations/hand_down/tick_animation

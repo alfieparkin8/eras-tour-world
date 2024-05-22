@@ -1,0 +1,8 @@
+function animated_java:ttpd/zzzzzzzz/animations/walk/pause_as_root
+function animated_java:ttpd/zzzzzzzz/animations/idle/pause_as_root
+function animated_java:ttpd/zzzzzzzz/animations/hand_down/pause_as_root
+function animated_java:ttpd/zzzzzzzz/animations/around_and_up/pause_as_root
+function animated_java:ttpd/zzzzzzzz/animations/rolling/pause_as_root
+function animated_java:ttpd/zzzzzzzz/animations/hips/pause_as_root
+function animated_java:ttpd/zzzzzzzz/animations/up/pause_as_root
+function animated_java:ttpd/zzzzzzzz/animations/down/pause_as_root

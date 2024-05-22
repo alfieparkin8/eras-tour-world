@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.lights.root] run function animated_java:lights/zzzzzzzz/tick_as_root

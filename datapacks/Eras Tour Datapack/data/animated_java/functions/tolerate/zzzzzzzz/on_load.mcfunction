@@ -1,0 +1,2 @@
+scoreboard players set @s aj.tolerate.rig_loaded 1
+execute unless score @s aj.tolerate.export_version = aj.tolerate.export_version aj.i at @s run function animated_java:tolerate/zzzzzzzz/mark_outdated_rig

@@ -1,0 +1,3 @@
+execute if score @s aj.ttpd.animation.hips.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:ttpd/zzzzzzzz/animations/hips/end_loop
+execute if score @s aj.ttpd.animation.hips.loop_mode = $aj.loop_mode.once aj.i run function animated_java:ttpd/animations/hips/stop
+execute if score @s aj.ttpd.animation.hips.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:ttpd/animations/hips/pause

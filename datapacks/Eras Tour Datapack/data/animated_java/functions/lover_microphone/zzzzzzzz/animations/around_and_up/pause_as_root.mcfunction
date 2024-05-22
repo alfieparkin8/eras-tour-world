@@ -1,1 +1,0 @@
-tag @s remove aj.lover_microphone.animation.around_and_up

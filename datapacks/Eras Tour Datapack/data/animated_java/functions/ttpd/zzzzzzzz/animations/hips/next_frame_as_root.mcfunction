@@ -1,0 +1,1 @@
+function animated_java:ttpd/zzzzzzzz/animations/hips/tick_animation

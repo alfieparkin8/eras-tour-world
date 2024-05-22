@@ -1,0 +1,1 @@
+tag @s remove aj.tolerate.animation.around_and_up

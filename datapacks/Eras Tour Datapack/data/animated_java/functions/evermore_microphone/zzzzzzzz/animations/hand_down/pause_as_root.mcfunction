@@ -1,0 +1,1 @@
+tag @s remove aj.evermore_microphone.animation.hand_down

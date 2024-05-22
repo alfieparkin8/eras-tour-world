@@ -28,6 +28,6 @@ scoreboard players add .aj.last_id aj.id 0
 scoreboard players set $aj.loop_mode.loop aj.i 0
 scoreboard players set $aj.loop_mode.once aj.i 1
 scoreboard players set $aj.loop_mode.hold aj.i 2
-scoreboard players set aj.folklore_microphone.export_version aj.i -652154206
+scoreboard players set aj.folklore_microphone.export_version aj.i -774199263
 scoreboard players reset * aj.folklore_microphone.rig_loaded
 execute as @e[type=minecraft:item_display,tag=aj.folklore_microphone.root] run function animated_java:folklore_microphone/zzzzzzzz/on_load

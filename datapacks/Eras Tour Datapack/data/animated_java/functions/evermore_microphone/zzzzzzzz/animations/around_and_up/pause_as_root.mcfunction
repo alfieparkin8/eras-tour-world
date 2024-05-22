@@ -1,0 +1,1 @@
+tag @s remove aj.evermore_microphone.animation.around_and_up

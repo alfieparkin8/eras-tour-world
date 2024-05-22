@@ -1,0 +1,2 @@
+execute as @e[type=minecraft:item_display,tag=deleter] at @s run kill @e[type=minecraft:item_display,tag=light,limit=1,distance=..2,sort=nearest]
+execute as @e[type=minecraft:item_display,tag=deleter] at @s run kill @s

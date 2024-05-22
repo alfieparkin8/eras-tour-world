@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.evermore_microphone.root] run function animated_java:evermore_microphone/zzzzzzzz/tick_as_root

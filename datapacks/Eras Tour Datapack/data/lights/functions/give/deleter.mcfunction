@@ -1,0 +1,1 @@
+give @p enderman_spawn_egg{EntityTag:{id:"minecraft:item_display",Invulnerable:1b,Tags:[deleter]},display:{Name:'[{"text":"Light Delete","italic":false}]'}}

@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.tolerate.bone.head] run data modify entity @s {} merge value {transformation:[-3.4450928483976665e-16f,-0.02181488503456141f,-0.9997620270799091f,-2.625f,0f,0.9997620270799091f,-0.02181488503456141f,1.475f,1f,-7.51543044211848e-18f,-3.444273009592549e-16f,-3.214697847761802e-16f,0f,0f,0f,1f],start_interpolation:0}

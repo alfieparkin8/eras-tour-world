@@ -1,2 +1,2 @@
-scoreboard players set #variant aj.i 7
+scoreboard players set #variant aj.i 8
 function animated_java:outfit/summon

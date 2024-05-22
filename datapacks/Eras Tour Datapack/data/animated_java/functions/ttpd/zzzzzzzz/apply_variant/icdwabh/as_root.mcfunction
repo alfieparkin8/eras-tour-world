@@ -1,0 +1,1 @@
+execute on passengers run function animated_java:ttpd/zzzzzzzz/apply_variant/icdwabh/as_bone

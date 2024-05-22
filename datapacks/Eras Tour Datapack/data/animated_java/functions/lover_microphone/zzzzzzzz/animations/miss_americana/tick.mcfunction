@@ -1,0 +1,2 @@
+execute if score @s aj.tween_time matches 1.. run function animated_java:lover_microphone/zzzzzzzz/animations/miss_americana/tick_tween
+execute unless score @s aj.tween_time matches 1.. run function animated_java:lover_microphone/zzzzzzzz/animations/miss_americana/tick_animation

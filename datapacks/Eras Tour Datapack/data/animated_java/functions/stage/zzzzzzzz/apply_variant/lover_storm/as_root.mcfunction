@@ -1,0 +1,1 @@
+execute on passengers run function animated_java:stage/zzzzzzzz/apply_variant/lover_storm/as_bone

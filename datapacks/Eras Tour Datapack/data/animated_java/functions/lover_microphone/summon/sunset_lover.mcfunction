@@ -1,2 +1,2 @@
-scoreboard players set #variant aj.i 6
+scoreboard players set #variant aj.i 8
 function animated_java:lover_microphone/summon

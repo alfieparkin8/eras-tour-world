@@ -1,0 +1,1 @@
+execute on passengers run function animated_java:lights/zzzzzzzz/apply_variant/lit/as_bone

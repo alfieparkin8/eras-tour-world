@@ -1,0 +1,1 @@
+function animated_java:tolerate/zzzzzzzz/animations/sit/tick_animation

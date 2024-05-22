@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.screen.animation.countdown] run function animated_java:screen/zzzzzzzz/animations/countdown/tick

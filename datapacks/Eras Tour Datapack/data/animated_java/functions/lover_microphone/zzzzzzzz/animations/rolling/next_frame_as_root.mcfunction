@@ -1,1 +1,0 @@
-function animated_java:lover_microphone/zzzzzzzz/animations/rolling/tick_animation

@@ -1,0 +1,3 @@
+execute if score @s aj.tolerate.animation.walk.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:tolerate/zzzzzzzz/animations/walk/end_loop
+execute if score @s aj.tolerate.animation.walk.loop_mode = $aj.loop_mode.once aj.i run function animated_java:tolerate/animations/walk/stop
+execute if score @s aj.tolerate.animation.walk.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:tolerate/animations/walk/pause

@@ -1,0 +1,1 @@
+function animated_java:screen/zzzzzzzz/animations/countdown/tick_animation

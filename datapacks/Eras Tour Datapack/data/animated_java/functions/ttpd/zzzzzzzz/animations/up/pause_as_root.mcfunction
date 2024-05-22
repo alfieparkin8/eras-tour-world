@@ -1,0 +1,1 @@
+tag @s remove aj.ttpd.animation.up

@@ -1,0 +1,1 @@
+function animated_java:evermore_microphone/zzzzzzzz/animations/hand_down/tick_animation

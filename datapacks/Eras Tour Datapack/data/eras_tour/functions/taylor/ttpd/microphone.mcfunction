@@ -1,0 +1,1 @@
+execute positioned -194 25 -86 rotated 90 0 run function animated_java:ttpd/summon

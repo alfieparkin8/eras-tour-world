@@ -1,0 +1,1 @@
+execute if score @s aj.anim_time matches 0..480 run function animated_java:stage/zzzzzzzz/animations/waolom/tree/branch_0_480

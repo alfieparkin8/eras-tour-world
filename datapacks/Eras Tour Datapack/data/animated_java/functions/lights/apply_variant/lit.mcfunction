@@ -1,0 +1,2 @@
+execute if entity @s[tag=aj.lights.root] run function animated_java:lights/zzzzzzzz/apply_variant/lit/as_root
+execute if entity @s[tag=!aj.lights.root] run tellraw @a ["",{"text":"["},{"text":"Animated Java","color":"aqua"},{"text":"] "},{"text":"ERROR ☠","color":"red"},{"text":" > ","color":"gray"},[{"text":"The function","color":"yellow"},{"text":" animated_java:lights/apply_variant/lit ","color":"blue"},{"text":"must be run"},{"text":" as ","color":"red"},{"text":"the root entity!"}]]

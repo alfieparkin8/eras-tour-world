@@ -1,0 +1,2 @@
+execute if entity @s[tag=aj.ttpd.root] run function animated_java:ttpd/zzzzzzzz/apply_variant/icdwabh/as_root
+execute if entity @s[tag=!aj.ttpd.root] run tellraw @a ["",{"text":"["},{"text":"Animated Java","color":"aqua"},{"text":"] "},{"text":"ERROR ☠","color":"red"},{"text":" > ","color":"gray"},[{"text":"The function","color":"yellow"},{"text":" animated_java:ttpd/apply_variant/icdwabh ","color":"blue"},{"text":"must be run"},{"text":" as ","color":"red"},{"text":"the root entity!"}]]

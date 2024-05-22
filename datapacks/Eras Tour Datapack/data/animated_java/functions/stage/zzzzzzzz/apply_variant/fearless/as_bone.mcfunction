@@ -1,0 +1,17 @@
+execute if entity @s[tag=aj.stage.bone.t] run data modify entity @s item.tag.CustomModelData set value 19
+execute if entity @s[tag=aj.stage.bone.straight] run data modify entity @s item.tag.CustomModelData set value 20
+execute if entity @s[tag=aj.stage.bone.upper] run data modify entity @s item.tag.CustomModelData set value 21
+execute if entity @s[tag=aj.stage.bone.lower] run data modify entity @s item.tag.CustomModelData set value 22
+execute if entity @s[tag=aj.stage.bone.diamond] run data modify entity @s item.tag.CustomModelData set value 23
+execute if entity @s[tag=aj.stage.bone.left_straight] run data modify entity @s item.tag.CustomModelData set value 24
+execute if entity @s[tag=aj.stage.bone.left_bend] run data modify entity @s item.tag.CustomModelData set value 25
+execute if entity @s[tag=aj.stage.bone.right_straight] run data modify entity @s item.tag.CustomModelData set value 26
+execute if entity @s[tag=aj.stage.bone.microphone] run data modify entity @s item.tag.CustomModelData set value 27
+execute if entity @s[tag=aj.stage.bone.right_bend] run data modify entity @s item.tag.CustomModelData set value 28
+execute if entity @s[tag=aj.stage.bone.head] run data modify entity @s item.tag.CustomModelData set value 29
+execute if entity @s[tag=aj.stage.bone.outfit] run data modify entity @s item.tag.CustomModelData set value 30
+execute if entity @s[tag=aj.stage.bone.chest] run data modify entity @s item.tag.CustomModelData set value 31
+execute if entity @s[tag=aj.stage.bone.waist] run data modify entity @s item.tag.CustomModelData set value 32
+execute if entity @s[tag=aj.stage.bone.right_leg] run data modify entity @s item.tag.CustomModelData set value 33
+execute if entity @s[tag=aj.stage.bone.left_leg] run data modify entity @s item.tag.CustomModelData set value 34
+execute if entity @s[tag=aj.stage.bone.platform] run data modify entity @s item.tag.CustomModelData set value 35

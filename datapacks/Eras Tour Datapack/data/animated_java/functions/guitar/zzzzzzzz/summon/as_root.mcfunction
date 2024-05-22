@@ -9,6 +9,7 @@ tp @s ~ ~ ~ ~ ~
 execute at @s on passengers run function animated_java:guitar/zzzzzzzz/summon/as_rig_entities
 execute if score #variant aj.i = $aj.guitar.variant.pink aj.id run function animated_java:guitar/zzzzzzzz/apply_variant/pink/as_root
 execute if score #variant aj.i = $aj.guitar.variant.blue aj.id run function animated_java:guitar/zzzzzzzz/apply_variant/blue/as_root
+execute if score #variant aj.i = $aj.guitar.variant.fearless aj.id run function animated_java:guitar/zzzzzzzz/apply_variant/fearless/as_root
 execute if score #variant aj.i = $aj.guitar.variant.surprise aj.id run function animated_java:guitar/zzzzzzzz/apply_variant/surprise/as_root
 execute if score #animation aj.i matches 0.. run scoreboard players operation @s aj.anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.guitar.animation.spin aj.id run function animated_java:guitar/zzzzzzzz/animations/spin/apply_frame_as_root

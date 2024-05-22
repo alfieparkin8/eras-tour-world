@@ -1,3 +1,1 @@
-kill @e[tag=screen]
-kill @e[tag=left-screen]
-kill @e[tag=right-screen]
+function animated_java:screen/remove/all

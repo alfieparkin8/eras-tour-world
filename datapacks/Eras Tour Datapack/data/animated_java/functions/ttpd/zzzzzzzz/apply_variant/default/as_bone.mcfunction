@@ -1,0 +1,11 @@
+execute if entity @s[tag=aj.ttpd.bone.left_straight] run data modify entity @s item.tag.CustomModelData set value 2
+execute if entity @s[tag=aj.ttpd.bone.left_bend] run data modify entity @s item.tag.CustomModelData set value 3
+execute if entity @s[tag=aj.ttpd.bone.right_straight] run data modify entity @s item.tag.CustomModelData set value 4
+execute if entity @s[tag=aj.ttpd.bone.microphone] run data modify entity @s item.tag.CustomModelData set value 5
+execute if entity @s[tag=aj.ttpd.bone.right_bend] run data modify entity @s item.tag.CustomModelData set value 6
+execute if entity @s[tag=aj.ttpd.bone.head] run data modify entity @s item.tag.CustomModelData set value 7
+execute if entity @s[tag=aj.ttpd.bone.outfit] run data modify entity @s item.tag.CustomModelData set value 8
+execute if entity @s[tag=aj.ttpd.bone.chest] run data modify entity @s item.tag.CustomModelData set value 9
+execute if entity @s[tag=aj.ttpd.bone.waist] run data modify entity @s item.tag.CustomModelData set value 10
+execute if entity @s[tag=aj.ttpd.bone.right_leg] run data modify entity @s item.tag.CustomModelData set value 11
+execute if entity @s[tag=aj.ttpd.bone.left_leg] run data modify entity @s item.tag.CustomModelData set value 12

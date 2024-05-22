@@ -1,0 +1,1 @@
+execute rotated 90 0 positioned -166 38 -97 run function animated_java:lights/summon

@@ -1,0 +1,8 @@
+function animated_java:tolerate/zzzzzzzz/animations/walk/pause_as_root
+function animated_java:tolerate/zzzzzzzz/animations/idle/pause_as_root
+function animated_java:tolerate/zzzzzzzz/animations/hand_down/pause_as_root
+function animated_java:tolerate/zzzzzzzz/animations/around_and_up/pause_as_root
+function animated_java:tolerate/zzzzzzzz/animations/rolling/pause_as_root
+function animated_java:tolerate/zzzzzzzz/animations/kneel/pause_as_root
+function animated_java:tolerate/zzzzzzzz/animations/sit/pause_as_root
+function animated_java:tolerate/zzzzzzzz/animations/tolerate/pause_as_root

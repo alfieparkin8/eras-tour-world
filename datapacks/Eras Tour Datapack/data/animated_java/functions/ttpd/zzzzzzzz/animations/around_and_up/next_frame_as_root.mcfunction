@@ -1,0 +1,1 @@
+function animated_java:ttpd/zzzzzzzz/animations/around_and_up/tick_animation

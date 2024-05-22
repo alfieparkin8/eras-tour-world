@@ -1,0 +1,1 @@
+execute if score @s aj.anim_time matches 0..360 run function animated_java:screen/zzzzzzzz/animations/countdown/tree/branch_0_360

@@ -1,1 +1,0 @@
-playsound minecraft:block.bell.use voice @a ~ ~ ~ 10 1 1

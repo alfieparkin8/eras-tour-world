@@ -1,0 +1,1 @@
+execute if score @s aj.anim_time matches 0..50 run function animated_java:evermore_microphone/zzzzzzzz/animations/around_and_up/tree/branch_0_50
