@@ -1,2 +1,0 @@
-execute if score @s aj.anim_time matches 345 run function animated_java:screen/zzzzzzzz/animations/countdown/tree/leaf_345
-execute if score @s aj.anim_time matches 350 run function animated_java:screen/zzzzzzzz/animations/countdown/tree/leaf_350
