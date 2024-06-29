@@ -1,0 +1,1 @@
+function animated_java:stage/zzzzzzzz/animations/out/tick_animation

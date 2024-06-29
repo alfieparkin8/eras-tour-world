@@ -1,0 +1,3 @@
+execute if score @s aj.stage.animation.out.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:stage/zzzzzzzz/animations/out/end_loop
+execute if score @s aj.stage.animation.out.loop_mode = $aj.loop_mode.once aj.i run function animated_java:stage/animations/out/stop
+execute if score @s aj.stage.animation.out.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:stage/animations/out/pause
