@@ -1,0 +1,2 @@
+execute on passengers run function animated_java:stage/zzzzzzzz/animations/rotate_right/tree/leaf_0_as_bone
+execute unless entity @s[tag=aj.stage.disable_command_keyframes] at @s run function animated_java:stage/zzzzzzzz/animations/rotate_right/tree/leaf_0_effects_0

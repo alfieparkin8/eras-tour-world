@@ -1,0 +1,1 @@
+function animated_java:stage/zzzzzzzz/animations/rotate_left/tick_animation
