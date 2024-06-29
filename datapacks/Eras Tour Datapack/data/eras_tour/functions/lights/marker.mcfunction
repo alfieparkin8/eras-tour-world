@@ -1,0 +1,3 @@
+execute as @e[tag=light-1] at @s run summon armor_stand ~ ~ ~ {Rotation:[-180F,0F],HandItems:[{id:"minecraft:torch",Count:1b,tag:{CustomModelData:1}},{}],ArmorItems:[{},{},{},{id:"minecraft:player_head",ShowArms:1b,Count:1b,tag:{SkullOwner:"Grian"}}]}
+execute as @e[tag=light-2] at @s run summon armor_stand ~ ~ ~ {Rotation:[-180F,0F],HandItems:[{id:"minecraft:torch",Count:1b,tag:{CustomModelData:1}},{}],ArmorItems:[{},{},{},{id:"minecraft:player_head",ShowArms:1b,Count:1b,tag:{SkullOwner:"Mumbo"}}]}
+execute as @e[tag=light-3] at @s run summon armor_stand ~ ~ ~ {Rotation:[-180F,0F],HandItems:[{id:"minecraft:torch",Count:1b,tag:{CustomModelData:1}},{}],ArmorItems:[{},{},{},{id:"minecraft:player_head",ShowArms:1b,Count:1b,tag:{SkullOwner:"Notch"}}]}
