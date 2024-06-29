@@ -1,0 +1,17 @@
+execute if entity @s[tag=aj.lover_guitar.bone.head] run data modify entity @s item.tag.CustomModelData set value 207
+execute if entity @s[tag=aj.lover_guitar.bone.shoes] run data modify entity @s item.tag.CustomModelData set value 208
+execute if entity @s[tag=aj.lover_guitar.bone.outfit] run data modify entity @s item.tag.CustomModelData set value 209
+execute if entity @s[tag=aj.lover_guitar.bone.body] run data modify entity @s item.tag.CustomModelData set value 210
+execute if entity @s[tag=aj.lover_guitar.bone.right_leg] run data modify entity @s item.tag.CustomModelData set value 211
+execute if entity @s[tag=aj.lover_guitar.bone.left_leg] run data modify entity @s item.tag.CustomModelData set value 212
+execute if entity @s[tag=aj.lover_guitar.bone.left_arm] run data modify entity @s item.tag.CustomModelData set value 213
+execute if entity @s[tag=aj.lover_guitar.bone.right_arm] run data modify entity @s item.tag.CustomModelData set value 214
+execute if entity @s[tag=aj.lover_guitar.bone.circle] run data modify entity @s item.tag.CustomModelData set value 215
+execute if entity @s[tag=aj.lover_guitar.bone.base] run data modify entity @s item.tag.CustomModelData set value 216
+execute if entity @s[tag=aj.lover_guitar.bone.neck] run data modify entity @s item.tag.CustomModelData set value 217
+execute if entity @s[tag=aj.lover_guitar.bone.topbar] run data modify entity @s item.tag.CustomModelData set value 218
+execute if entity @s[tag=aj.lover_guitar.bone.stand] run data modify entity @s item.tag.CustomModelData set value 219
+execute if entity @s[tag=aj.lover_guitar.bone.microphone] run data modify entity @s item.tag.CustomModelData set value 220
+execute if entity @s[tag=aj.lover_guitar.bone.leg] run data modify entity @s item.tag.CustomModelData set value 221
+execute if entity @s[tag=aj.lover_guitar.bone.leg2] run data modify entity @s item.tag.CustomModelData set value 222
+execute if entity @s[tag=aj.lover_guitar.bone.leg3] run data modify entity @s item.tag.CustomModelData set value 223

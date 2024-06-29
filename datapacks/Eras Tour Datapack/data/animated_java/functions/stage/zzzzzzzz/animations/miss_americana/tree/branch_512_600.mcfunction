@@ -1,0 +1,2 @@
+execute if score @s aj.anim_time matches 512..575 run function animated_java:stage/zzzzzzzz/animations/miss_americana/tree/branch_512_575
+execute if score @s aj.anim_time matches 576..600 run function animated_java:stage/zzzzzzzz/animations/miss_americana/tree/branch_576_600

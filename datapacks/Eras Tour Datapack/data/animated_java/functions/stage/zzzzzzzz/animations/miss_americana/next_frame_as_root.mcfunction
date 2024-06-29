@@ -1,0 +1,1 @@
+function animated_java:stage/zzzzzzzz/animations/miss_americana/tick_animation

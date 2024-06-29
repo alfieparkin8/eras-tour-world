@@ -1,0 +1,17 @@
+execute if entity @s[tag=aj.lover_guitar.bone.head] run data modify entity @s item.tag.CustomModelData set value 343
+execute if entity @s[tag=aj.lover_guitar.bone.shoes] run data modify entity @s item.tag.CustomModelData set value 344
+execute if entity @s[tag=aj.lover_guitar.bone.outfit] run data modify entity @s item.tag.CustomModelData set value 345
+execute if entity @s[tag=aj.lover_guitar.bone.body] run data modify entity @s item.tag.CustomModelData set value 346
+execute if entity @s[tag=aj.lover_guitar.bone.right_leg] run data modify entity @s item.tag.CustomModelData set value 347
+execute if entity @s[tag=aj.lover_guitar.bone.left_leg] run data modify entity @s item.tag.CustomModelData set value 348
+execute if entity @s[tag=aj.lover_guitar.bone.left_arm] run data modify entity @s item.tag.CustomModelData set value 349
+execute if entity @s[tag=aj.lover_guitar.bone.right_arm] run data modify entity @s item.tag.CustomModelData set value 350
+execute if entity @s[tag=aj.lover_guitar.bone.circle] run data modify entity @s item.tag.CustomModelData set value 351
+execute if entity @s[tag=aj.lover_guitar.bone.base] run data modify entity @s item.tag.CustomModelData set value 352
+execute if entity @s[tag=aj.lover_guitar.bone.neck] run data modify entity @s item.tag.CustomModelData set value 353
+execute if entity @s[tag=aj.lover_guitar.bone.topbar] run data modify entity @s item.tag.CustomModelData set value 354
+execute if entity @s[tag=aj.lover_guitar.bone.stand] run data modify entity @s item.tag.CustomModelData set value 355
+execute if entity @s[tag=aj.lover_guitar.bone.microphone] run data modify entity @s item.tag.CustomModelData set value 356
+execute if entity @s[tag=aj.lover_guitar.bone.leg] run data modify entity @s item.tag.CustomModelData set value 357
+execute if entity @s[tag=aj.lover_guitar.bone.leg2] run data modify entity @s item.tag.CustomModelData set value 358
+execute if entity @s[tag=aj.lover_guitar.bone.leg3] run data modify entity @s item.tag.CustomModelData set value 359

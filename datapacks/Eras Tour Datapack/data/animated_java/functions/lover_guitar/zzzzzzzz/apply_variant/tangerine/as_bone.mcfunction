@@ -1,0 +1,17 @@
+execute if entity @s[tag=aj.lover_guitar.bone.head] run data modify entity @s item.tag.CustomModelData set value 258
+execute if entity @s[tag=aj.lover_guitar.bone.shoes] run data modify entity @s item.tag.CustomModelData set value 259
+execute if entity @s[tag=aj.lover_guitar.bone.outfit] run data modify entity @s item.tag.CustomModelData set value 260
+execute if entity @s[tag=aj.lover_guitar.bone.body] run data modify entity @s item.tag.CustomModelData set value 261
+execute if entity @s[tag=aj.lover_guitar.bone.right_leg] run data modify entity @s item.tag.CustomModelData set value 262
+execute if entity @s[tag=aj.lover_guitar.bone.left_leg] run data modify entity @s item.tag.CustomModelData set value 263
+execute if entity @s[tag=aj.lover_guitar.bone.left_arm] run data modify entity @s item.tag.CustomModelData set value 264
+execute if entity @s[tag=aj.lover_guitar.bone.right_arm] run data modify entity @s item.tag.CustomModelData set value 265
+execute if entity @s[tag=aj.lover_guitar.bone.circle] run data modify entity @s item.tag.CustomModelData set value 266
+execute if entity @s[tag=aj.lover_guitar.bone.base] run data modify entity @s item.tag.CustomModelData set value 267
+execute if entity @s[tag=aj.lover_guitar.bone.neck] run data modify entity @s item.tag.CustomModelData set value 268
+execute if entity @s[tag=aj.lover_guitar.bone.topbar] run data modify entity @s item.tag.CustomModelData set value 269
+execute if entity @s[tag=aj.lover_guitar.bone.stand] run data modify entity @s item.tag.CustomModelData set value 270
+execute if entity @s[tag=aj.lover_guitar.bone.microphone] run data modify entity @s item.tag.CustomModelData set value 271
+execute if entity @s[tag=aj.lover_guitar.bone.leg] run data modify entity @s item.tag.CustomModelData set value 272
+execute if entity @s[tag=aj.lover_guitar.bone.leg2] run data modify entity @s item.tag.CustomModelData set value 273
+execute if entity @s[tag=aj.lover_guitar.bone.leg3] run data modify entity @s item.tag.CustomModelData set value 274

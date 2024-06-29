@@ -10,9 +10,23 @@ scoreboard objectives remove aj.stage.animation.down.local_anim_time
 scoreboard objectives remove aj.stage.animation.spin.local_anim_time
 scoreboard objectives remove aj.stage.animation.forward.local_anim_time
 scoreboard objectives remove aj.stage.animation.idle.local_anim_time
+scoreboard objectives remove aj.stage.animation.fan.local_anim_time
+scoreboard objectives remove aj.stage.animation.in.local_anim_time
+scoreboard objectives remove aj.stage.animation.out.local_anim_time
+scoreboard objectives remove aj.stage.animation.walk.local_anim_time
+scoreboard objectives remove aj.stage.animation.rotate_right.local_anim_time
+scoreboard objectives remove aj.stage.animation.rotate_left.local_anim_time
+scoreboard objectives remove aj.stage.animation.miss_americana.local_anim_time
 scoreboard objectives remove aj.stage.animation.waolom.loop_mode
 scoreboard objectives remove aj.stage.animation.down.loop_mode
 scoreboard objectives remove aj.stage.animation.spin.loop_mode
 scoreboard objectives remove aj.stage.animation.forward.loop_mode
 scoreboard objectives remove aj.stage.animation.idle.loop_mode
+scoreboard objectives remove aj.stage.animation.fan.loop_mode
+scoreboard objectives remove aj.stage.animation.in.loop_mode
+scoreboard objectives remove aj.stage.animation.out.loop_mode
+scoreboard objectives remove aj.stage.animation.walk.loop_mode
+scoreboard objectives remove aj.stage.animation.rotate_right.loop_mode
+scoreboard objectives remove aj.stage.animation.rotate_left.loop_mode
+scoreboard objectives remove aj.stage.animation.miss_americana.loop_mode
 tellraw @a ["",{"text":"["},{"text":"Animated Java","color":"aqua"},{"text":"] "},[{"text":"INFO ℹ","color":"green"},{"text":" > ","color":"gray"},{"text":"The stage Rig has been uninstalled successfully.\n"},{"text":"Please remove the Rig's functions from the datapack before reloading.","color":"gray"}]]

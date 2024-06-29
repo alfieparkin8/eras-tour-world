@@ -10,13 +10,18 @@ execute at @s on passengers run function animated_java:lover_guitar/zzzzzzzz/sum
 execute if score #variant aj.i = $aj.lover_guitar.variant.sunset aj.id run function animated_java:lover_guitar/zzzzzzzz/apply_variant/sunset/as_root
 execute if score #variant aj.i = $aj.lover_guitar.variant.golden aj.id run function animated_java:lover_guitar/zzzzzzzz/apply_variant/golden/as_root
 execute if score #variant aj.i = $aj.lover_guitar.variant.golden_blue aj.id run function animated_java:lover_guitar/zzzzzzzz/apply_variant/golden_blue/as_root
+execute if score #variant aj.i = $aj.lover_guitar.variant.golden_lavender aj.id run function animated_java:lover_guitar/zzzzzzzz/apply_variant/golden_lavender/as_root
 execute if score #variant aj.i = $aj.lover_guitar.variant.heart aj.id run function animated_java:lover_guitar/zzzzzzzz/apply_variant/heart/as_root
 execute if score #variant aj.i = $aj.lover_guitar.variant.heart_blue aj.id run function animated_java:lover_guitar/zzzzzzzz/apply_variant/heart_blue/as_root
-execute if score #variant aj.i = $aj.lover_guitar.variant.sun_rise aj.id run function animated_java:lover_guitar/zzzzzzzz/apply_variant/sun_rise/as_root
-execute if score #variant aj.i = $aj.lover_guitar.variant.sun_rise_blue aj.id run function animated_java:lover_guitar/zzzzzzzz/apply_variant/sun_rise_blue/as_root
+execute if score #variant aj.i = $aj.lover_guitar.variant.heart_lavender aj.id run function animated_java:lover_guitar/zzzzzzzz/apply_variant/heart_lavender/as_root
 execute if score #variant aj.i = $aj.lover_guitar.variant.sunset_blue aj.id run function animated_java:lover_guitar/zzzzzzzz/apply_variant/sunset_blue/as_root
+execute if score #variant aj.i = $aj.lover_guitar.variant.sunset_lavender aj.id run function animated_java:lover_guitar/zzzzzzzz/apply_variant/sunset_lavender/as_root
+execute if score #variant aj.i = $aj.lover_guitar.variant.tangerine aj.id run function animated_java:lover_guitar/zzzzzzzz/apply_variant/tangerine/as_root
+execute if score #variant aj.i = $aj.lover_guitar.variant.tangerine_blue aj.id run function animated_java:lover_guitar/zzzzzzzz/apply_variant/tangerine_blue/as_root
+execute if score #variant aj.i = $aj.lover_guitar.variant.tangerine_lavender aj.id run function animated_java:lover_guitar/zzzzzzzz/apply_variant/tangerine_lavender/as_root
 execute if score #variant aj.i = $aj.lover_guitar.variant.violet aj.id run function animated_java:lover_guitar/zzzzzzzz/apply_variant/violet/as_root
 execute if score #variant aj.i = $aj.lover_guitar.variant.violet_blue aj.id run function animated_java:lover_guitar/zzzzzzzz/apply_variant/violet_blue/as_root
+execute if score #variant aj.i = $aj.lover_guitar.variant.violet_lavender aj.id run function animated_java:lover_guitar/zzzzzzzz/apply_variant/violet_lavender/as_root
 execute if score #animation aj.i matches 0.. run scoreboard players operation @s aj.anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.lover_guitar.animation.strum aj.id run function animated_java:lover_guitar/zzzzzzzz/animations/strum/apply_frame_as_root
 execute if score #animation aj.i = $aj.lover_guitar.animation.strum aj.id run scoreboard players operation @s aj.lover_guitar.animation.strum.local_anim_time = #frame aj.i

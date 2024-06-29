@@ -1,0 +1,17 @@
+execute if entity @s[tag=aj.lover_guitar.bone.head] run data modify entity @s item.tag.CustomModelData set value 241
+execute if entity @s[tag=aj.lover_guitar.bone.shoes] run data modify entity @s item.tag.CustomModelData set value 242
+execute if entity @s[tag=aj.lover_guitar.bone.outfit] run data modify entity @s item.tag.CustomModelData set value 243
+execute if entity @s[tag=aj.lover_guitar.bone.body] run data modify entity @s item.tag.CustomModelData set value 244
+execute if entity @s[tag=aj.lover_guitar.bone.right_leg] run data modify entity @s item.tag.CustomModelData set value 245
+execute if entity @s[tag=aj.lover_guitar.bone.left_leg] run data modify entity @s item.tag.CustomModelData set value 246
+execute if entity @s[tag=aj.lover_guitar.bone.left_arm] run data modify entity @s item.tag.CustomModelData set value 247
+execute if entity @s[tag=aj.lover_guitar.bone.right_arm] run data modify entity @s item.tag.CustomModelData set value 248
+execute if entity @s[tag=aj.lover_guitar.bone.circle] run data modify entity @s item.tag.CustomModelData set value 249
+execute if entity @s[tag=aj.lover_guitar.bone.base] run data modify entity @s item.tag.CustomModelData set value 250
+execute if entity @s[tag=aj.lover_guitar.bone.neck] run data modify entity @s item.tag.CustomModelData set value 251
+execute if entity @s[tag=aj.lover_guitar.bone.topbar] run data modify entity @s item.tag.CustomModelData set value 252
+execute if entity @s[tag=aj.lover_guitar.bone.stand] run data modify entity @s item.tag.CustomModelData set value 253
+execute if entity @s[tag=aj.lover_guitar.bone.microphone] run data modify entity @s item.tag.CustomModelData set value 254
+execute if entity @s[tag=aj.lover_guitar.bone.leg] run data modify entity @s item.tag.CustomModelData set value 255
+execute if entity @s[tag=aj.lover_guitar.bone.leg2] run data modify entity @s item.tag.CustomModelData set value 256
+execute if entity @s[tag=aj.lover_guitar.bone.leg3] run data modify entity @s item.tag.CustomModelData set value 257

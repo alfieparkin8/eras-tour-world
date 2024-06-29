@@ -1,0 +1,1 @@
+execute on passengers run function animated_java:lover_guitar/zzzzzzzz/apply_variant/tangerine_lavender/as_bone
